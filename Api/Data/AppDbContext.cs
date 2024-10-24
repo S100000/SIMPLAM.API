@@ -15,6 +15,6 @@ namespace Api.Data
             
         }
 
-        public DbSet<BeanModel> BeanData { get; set; }
+        public DbSet<GreenHouseConfig> BeanData { get; set; }
     }
 }
